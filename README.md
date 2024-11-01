@@ -1,5 +1,5 @@
 
-# Ammr Ayman's Data Analysis Portfolio
+//# Ammr Ayman's Data Analysis Portfolio
 
 ## 👋 Welcome!
 
@@ -54,9 +54,12 @@ This portfolio showcases some of my projects and demonstrates my abilities in:
 * **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
 * **Databases:** SQL Server, MySQL, PostgreSQL
 * **Tools & Libraries:** Jupyter Notebook, Git
+<!--
 
+ 
 ## 🤝 Let's Connect!
 
 I'm eager to connect with fellow data enthusiasts and explore new opportunities. You can reach me via:
 
 <a href="mailto:ammarayman426@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" height="30"></a>    <a href="https://www.linkedin.com/in/ammar-ayman-528086316/"><img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30"></a>     <a href="https://github.com/Ammarz8"><img src="https://simpleicons.org/icons/github.svg" alt="GitHub" height="30"></a>
+-->
