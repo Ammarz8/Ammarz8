@@ -1,1 +1,18 @@
+title: Ammr Ayman - Data Analyst
+description: Transforming data into actionable insights.
+url: https://yourusername.github.io # Your GitHub Pages URL
+theme: minima # Replace 'minima' with your chosen theme (see options below)
 
+# Theme-specific settings might go here, depending on the theme you choose.
+# For example, for the "minima" theme:
+show_excerpts: true # Show post excerpts on the home page
+
+# Your Details
+name: Ammr Ayman
+email: ammarayman426@gmail.com # Optional
+linkedin_username: ammar-ayman-528086316
+github_username: Ammarz8
+
+# Image Configuration (important!)
+image:
+  path: /image.img # Path to your image within your repository
